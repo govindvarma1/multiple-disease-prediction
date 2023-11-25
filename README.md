@@ -1,8 +1,11 @@
 # Multiple Disease Prediction System using Machine Learning
 
-![Alt text](<Screenshot from 2023-11-25 15-08-50.png>)
-![Alt text](<Screenshot from 2023-11-25 15-08-56.png>)
-![Alt text](<Screenshot from 2023-11-25 15-09-00.png>)
+
+![Screenshot from 2023-11-25 15-08-50](https://github.com/govindvarma1/multiple-disease-prediction/assets/98372421/0ff34786-0edc-49f0-93b2-af5a6092c4f7)
+![Screenshot from 2023-11-25 15-08-56](https://github.com/govindvarma1/multiple-disease-prediction/assets/98372421/04baf337-c093-4700-a13b-4d3c7c88982d)
+![Screenshot from 2023-11-25 15-09-00](https://github.com/govindvarma1/multiple-disease-prediction/assets/98372421/dc712577-253f-4aef-847a-1fbbe175b36a)
+
+
 
 This project provides a streamlit web application for predicting multiple diseases, including diabetes, Parkinson's disease, and heart disease, using machine learning algorithms. The prediction models are deployed using Streamlit, a Python library for building interactive web applications.
 
