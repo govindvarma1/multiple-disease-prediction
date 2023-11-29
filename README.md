@@ -1,5 +1,6 @@
 # Multiple Disease Prediction System using Machine Learning
 
+**[Link to website](https://multiple-disease-prediction-jnu.streamlit.app/)**
 
 ![Screenshot from 2023-11-25 15-08-50](https://github.com/govindvarma1/multiple-disease-prediction/assets/98372421/0ff34786-0edc-49f0-93b2-af5a6092c4f7)
 ![Screenshot from 2023-11-25 15-08-56](https://github.com/govindvarma1/multiple-disease-prediction/assets/98372421/04baf337-c093-4700-a13b-4d3c7c88982d)
